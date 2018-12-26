@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.deps.json
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.runtimeconfig.json
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.runtimeconfig.dev.json
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.dll
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.pdb
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.RazorAssemblyInfo.cache
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.RazorAssemblyInfo.cs
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.AssemblyInfo.cs
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.RazorTargetAssemblyInfo.cache
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.dll
+C:\Users\julia\source\repos\REST-With-ASPNET-Core-\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.pdb
